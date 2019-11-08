@@ -88,7 +88,7 @@ nav a {
 	text-decoration: none;
 }
 
-header {
+header.index {
 	display: flex;
 	align-items: center;
 	justify-content: space-evenly;
@@ -165,3 +165,67 @@ a.main-cta {
 	margin-bottom: 200px;
 	text-align: center;
 }
+
+img.services-header-img {
+	margin-top: 30px;
+}
+
+nav.services-page {
+	font-weight: bold;
+}
+
+header.services-page {
+	margin-top: 30px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid black;
+}
+
+header.services-page h1 {
+	font-size: 26px;
+}
+
+#services {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-bottom: 40px;
+	border-bottom: 2px solid;
+}
+
+.service {
+	flex-basis: 47.5%;
+	padding: 20px;
+	margin-top: 40px;
+	border: 1px solid;
+	background-color: #f4f3f4;
+}
+
+.offer-cta {
+	border: 1px solid;
+	text-align: center;
+	margin: 20px 0px 0px 0px;
+	padding: 12px 0px 12px 0px;
+	width: 130px;
+	background-color: white;
+	border-radius: 4px;
+	font-size: 12px;
+}
+
+#additional-info {
+	margin-top: 40px;
+	display: flex;
+}
+
+#facts {
+	padding-right: 50px;
+}
+
+#facts ul {
+	margin-top: 20px;
+	list-style: square inside;
+}
+
+#facts ul li {
+	margin-top: 10px;
+}
+
