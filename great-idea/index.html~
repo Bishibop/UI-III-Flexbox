@@ -26,7 +26,7 @@
     <img class="logo" src="img/logo.png" alt="Great Idea! Company logo.">
   </nav>
 
-  <header class="index">
+  <header class="index-header">
     <section class="left-header">
       <h1>
 	  <div>Innovation</div>
